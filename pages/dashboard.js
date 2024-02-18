@@ -12,7 +12,7 @@ import { FiLogOut, FiArrowLeft } from "react-icons/fi";
 //components
 import LineChart from "../components/LineChart";
 import { useMetrics } from "../hooks/useMetrics";
-import Controls from "../components/Controls";
+import {Controls, Reset} from "../components/Controls";
 import Video from "../components/Video";
 
 //runtime config
